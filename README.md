@@ -1,4 +1,4 @@
-<img align="right" src="https://lh4.googleusercontent.com/qfoTUg9_Geq1tkRy3e0xj7nZLiJghBB_kNt4BIMc5YTolXFnGLSLK0oj5QNxQLSkohPscnwYsdyYsctIzzx5C_qh_HBWLAd-5vdbntyMlPI3U2neY5Q3aGGR_UzR5_2JyPhtqcCd" alt="dotsama" width="350"/>
+<img align="right" src="[https://lh4.googleusercontent.com/qfoTUg9_Geq1tkRy3e0xj7nZLiJghBB_kNt4BIMc5YTolXFnGLSLK0oj5QNxQLSkohPscnwYsdyYsctIzzx5C_qh_HBWLAd-5vdbntyMlPI3U2neY5Q3aGGR_UzR5_2JyPhtqcCd](http://ministryofbritishcomedy.com/21-questionable-pieces-of-life-advice-from-the-it-crowd/)" alt="dotsama" width="350"/>
 
 
 ![Github Activity](https://github-readme-stats.vercel.app/api?username=Abdul-M777&show_icons=true&count_private=true&theme=synthwave)
