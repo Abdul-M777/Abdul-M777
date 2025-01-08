@@ -1,45 +1,60 @@
-<h1 align="center">Hi 👋, I'm Abdulmuaz Alshaikhli</h1>
-<h3 align="center">A passionate fullstack developer and creator</h3>
+# 👋 Hello, I'm Abdulmuaz Alshaikhli  
+### A Creative and Passionate Fullstack Developer  
 
-# 👨‍💼 About me
+---
 
-Experienced software developer with a background in both front-end and back-end coding. Self-driven and consistent learner.
+## 👨‍💼 About Me  
+🚀 I’m an experienced software developer with a knack for crafting dynamic and efficient web solutions. Whether it’s front-end interactivity or back-end logic, I thrive in bringing ideas to life through code.  
 
-* 🌍  I'm based in Denmark 
-* 🧠  I love creating websites. 
-* 🤝  I'm open to contributing to projects 
-* 🔗  You can contact me on [in/abdulmuaz](https://www.linkedin.com/in/abdulmuaz-a-09291a160/)
+💡 Self-driven, curious, and always eager to learn new technologies to stay ahead in the ever-evolving tech world.  
 
-# 🎯 Skills
+### 🌟 Quick Facts  
+- 🌍 Based in Denmark 🇩🇰  
+- 💻 Love building innovative websites and tools  
+- 🤝 Open to collaborating on impactful projects  
+- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/abdulmuaz-a-09291a160/)  
 
-### 👨‍💻 Developer
+---
 
+## 🎯 My Toolbox  
 
-![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Data Bases](https://img.shields.io/badge/data%20base-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 💻 Developer Skills  
+#### Programming Languages & Frameworks  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
 
-### 🛠️ Tools
+#### Styling & Design  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-![visualstudiocode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![microsoftword](https://img.shields.io/badge/microsoft%20word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![microsoftpowerpoint](https://img.shields.io/badge/microsoft%20powerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![microsoftexcel](https://img.shields.io/badge/microsoft%20excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![googledrive](https://img.shields.io/badge/google%20drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![googledocs](https://img.shields.io/badge/google%20docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
-![googlesheets](https://img.shields.io/badge/google%20sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+#### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-# 📅 Hobbies
-- Chess
-- Playing video games
-- Reading books
-- Movies/Series
+---
 
+### 🛠️ Tools of the Trade  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)  
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
 
+---
 
+## 📚 Hobbies & Interests  
+When I’m not coding, you can find me:  
+- ♟️ Strategizing in chess  
+- 🎮 Immersed in video games  
+- 📖 Diving into a good book  
+- 🎥 Watching captivating movies/series  
 
+---
 
+⚡ *Let’s collaborate and build something amazing together!*  
