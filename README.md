@@ -3,6 +3,11 @@
 
 ---
 
+📁 **Portfolio:** [https://abdulmuaz.com/](https://abdulmuaz.com/)
+
+
+---
+
 ## 👨‍💼 About Me  
 🚀 I’m an experienced software developer with a knack for crafting dynamic and efficient web solutions. Whether it’s front-end interactivity or back-end logic, I thrive in bringing ideas to life through code.  
 
