@@ -59,10 +59,9 @@
 
 ## 📚 Hobbies & Interests  
 When I’m not coding, you can find me:  
-- ♟️ Strategizing in chess  
-- 🎮 Immersed in video games  
-- 📖 Diving into a good book  
-- 🎥 Watching captivating movies/series  
+- ♟️ Like to play chess  
+- 🎮 Love playing video games  
+- 📖 Read a good book
 
 ---
 
